@@ -1,5 +1,5 @@
 ﻿# namaste_nodejs
-# LEpisode - I
+# Episode - I
 
 ## What is Node.js?
 
